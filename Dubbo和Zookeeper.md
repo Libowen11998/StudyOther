@@ -2,7 +2,7 @@
 
 官网下载:https://www.apache.org/dyn/closer.lua/zookeeper/zookeeper-3.6.2/apache-zookeeper-3.6.2-bin.tar.gz
 
-![image-20210320105352542](C:\Users\Administrator.MACHENI-KA32LTP\AppData\Roaming\Typora\typora-user-images\image-20210320105352542.png)
+![image-20210320105352542](https://cdn.jsdelivr.net/gh/kongbaizz/myimages/images3/20210423145846.png)
 
 两个都进行下载然后进行解压,并且把bin中的lib包复制到非bin中去
 

@@ -6,15 +6,15 @@
 
 两个都进行下载然后进行解压,并且把bin中的lib包复制到非bin中去
 
-![image-20210320105750970](C:\Users\Administrator.MACHENI-KA32LTP\AppData\Roaming\Typora\typora-user-images\image-20210320105750970.png)
+![image-20210320105750970](https://cdn.jsdelivr.net/gh/kongbaizz/myimages/images3/20210423135110.png)
 
 之后开启Zookeeper服务
 
-![image-20210320105900423](C:\Users\Administrator.MACHENI-KA32LTP\AppData\Roaming\Typora\typora-user-images\image-20210320105900423.png)
+![image-20210320105900423](https://cdn.jsdelivr.net/gh/kongbaizz/myimages/images3/20210423135113.png)
 
 在zkCli.cmd中进行操作
 
-![image-20210320110105828](C:\Users\Administrator.MACHENI-KA32LTP\AppData\Roaming\Typora\typora-user-images\image-20210320110105828.png)
+![image-20210320110105828](https://cdn.jsdelivr.net/gh/kongbaizz/myimages/images3/20210423135118.png)
 
 ls / 查看服务
 
@@ -34,7 +34,7 @@ delete /:删除一个服务
 
 #### 1.打包
 
-![image-20210320110332654](C:\Users\Administrator.MACHENI-KA32LTP\AppData\Roaming\Typora\typora-user-images\image-20210320110332654.png)
+![image-20210320110332654](https://cdn.jsdelivr.net/gh/kongbaizz/myimages/images3/20210423135122.png)
 
 在此目录下运行此命令
 
@@ -46,7 +46,7 @@ mvn clean package -Dmaven.test.skip=true
 
 #### 执行dubbo-admin-maste /dubbo-admin/target 下的jar包
 
-![image-20210320110715049](C:\Users\Administrator.MACHENI-KA32LTP\AppData\Roaming\Typora\typora-user-images\image-20210320110715049.png)
+![image-20210320110715049](https://cdn.jsdelivr.net/gh/kongbaizz/myimages/images3/20210423135127.png)
 
 在此目录运行
 
@@ -58,4 +58,4 @@ java -jar dubbo-admin-0.0.1-SNAPSHOT.jar
 
 #### http://localhost:7001 进入管理页面
 
-![image-20210320150917693](C:\Users\Administrator.MACHENI-KA32LTP\AppData\Roaming\Typora\typora-user-images\image-20210320150917693.png)
+![image-20210320150917693](https://cdn.jsdelivr.net/gh/kongbaizz/myimages/images3/20210423135239.png)
